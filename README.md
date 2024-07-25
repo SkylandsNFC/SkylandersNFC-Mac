@@ -40,3 +40,7 @@ Make NFC Skylanders cards on your Mac (works with both Intel and Apple Silicon M
 - Windows Activation may be included in a future update. If you need Windows activated immediately, please purchase a license.
 - **Disclaimer:** The VM may run slow, so please be patient.
 - MiFare Windows Tool (MWT) and all necessary drivers are installed. MWT may take time to open; avoid multiple clicks to prevent opening multiple windows and slowing the process.
+
+Need help? 
+
+Join [Skylandeer's Discord Server](https://discord.gg/zwfNruHDMk)
