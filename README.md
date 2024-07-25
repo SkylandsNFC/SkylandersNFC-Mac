@@ -1,41 +1,38 @@
-# SkylandersNFC-Mac
-Way to create NFC Skylanders cards on MacOS, no matter if its Intel or Apple Silicon
+# **SkylandersNFC for MacOS**
+Make NFC Skylanders cards on your Mac (works with both Intel and Apple Silicon Macs).
 
+## How to Set It Up
 
-## How will we be getting this to work? 
-We will be using UTM and a file from this GitHub to make x64 Windows work. 
+### Step 1: Get UTM
+- Download UTM from the [App Store](https://apps.apple.com/us/app/utm-virtual-machines/id1538878817) or [GitHub](https://getutm.app).
 
-# Steps
+### Step 2: Install UTM
+- Open the file you downloaded and follow the instructions to install it.
 
-## Step 1
-Download UTM via https://getutm.app
+### Step 3: Download Skylanders File
+- Get the latest Skylanders W11 file from the [Latest Release](https://www.dropbox.com/scl/fi/d48h3j9x40484ys8kr174/SkylandersNFC-MacOS.zip?rlkey=8pi9c7inhsr0hmvuvrhc19soe&st=de2kvowq&dl=0).
 
-## Step 2
-Install UTM
+### Step 4: Open the File
+- Double-click the downloaded file to open it in UTM.
 
-## Step 3
-Download the latest release of Skylanders W11
+### Step 5: Configure UTM
+- Right-click the file in UTM, select "Edit", go to "System", set CPU cores to 4, and check "Force multi-core".
 
-## Step 4
-Once its downloaded, please double click the file to open it in UTM
+## Updating to a New Version
 
-## Step 5
-Right click and say "Edit", go to "System" and but the CPU cores to 4, then check force multi-core
+### Step 1: Remove Old Version
+- Open UTM, right-click the old file in the sidebar, and select "Remove".
 
+### Step 2: Download New Version
+- Get the latest file from the [Latest Release](https://www.dropbox.com/scl/fi/d48h3j9x40484ys8kr174/SkylandersNFC-MacOS.zip?rlkey=8pi9c7inhsr0hmvuvrhc19soe&st=de2kvowq&dl=0).
 
+### Step 3: Configure New Version
+- Follow Step 5 from the initial setup to configure the new file in UTM.
 
-## Note: 
-Once a new release comes out of Skylander dump files and pictures, a new UTM file will be released so please follow the steps below for installing the new version
-
-## Step 1
-Open UTM and right click the file, select "remove"
-
-## Step 2
-Download the latest file in the GitHub
-
-## Step 3
-Repeat step 5 from the initial set up process, all of the latest versions of everything will be installed
-
-
-# Discord
-Please join Skylandeer's Discord where you can receive help: https://discord.gg/zwfNruHDMk
+## Extra Information
+- To log into the VM, read the `login_info.txt` file included with the download.
+- The VM has a password detailed in the `login_info.txt` file.
+- If the VM file gets updated, delete the old VM from the sidebar in UTM, download the new one, and follow Step 5 from the initial setup.
+- Windows Activation may be included in a future update. If you need Windows activated immediately, please purchase a license.
+- **Disclaimer:** The VM may run slow, so please be patient.
+- MiFare Windows Tool (MWT) and all necessary drivers are installed. MWT may take time to open; avoid multiple clicks to prevent opening multiple windows and slowing the process.
