@@ -12,10 +12,14 @@ Make NFC Skylanders cards on your Mac (works with both Intel and Apple Silicon M
 ### Step 3: Download Skylanders File
 - Get the latest Skylanders W11 file from the [Latest Release](https://www.dropbox.com/scl/fi/d48h3j9x40484ys8kr174/SkylandersNFC-MacOS.zip?rlkey=8pi9c7inhsr0hmvuvrhc19soe&st=de2kvowq&dl=0).
 
-### Step 4: Open the File
+### Step 4: Unzip the Folder
+
+- You might need to unzip the folder. Double-click on the zip file to unzip it.
+
+### Step 5: Open the File
 - Double-click the downloaded file to open it in UTM.
 
-### Step 5: Configure UTM
+### Step 6: Configure UTM
 - Right-click the file in UTM, select "Edit", go to "System", set CPU cores to 4, and check "Force multi-core".
 
 ## Updating to a New Version
@@ -27,7 +31,7 @@ Make NFC Skylanders cards on your Mac (works with both Intel and Apple Silicon M
 - Get the latest file from the [Latest Release](https://www.dropbox.com/scl/fi/d48h3j9x40484ys8kr174/SkylandersNFC-MacOS.zip?rlkey=8pi9c7inhsr0hmvuvrhc19soe&st=de2kvowq&dl=0).
 
 ### Step 3: Configure New Version
-- Follow Step 5 from the initial setup to configure the new file in UTM.
+- Follow Step 6 from the initial setup to configure the new file in UTM.
 
 ## Extra Information
 - To log into the VM, read the `login_info.txt` file included with the download.
