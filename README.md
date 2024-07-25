@@ -36,7 +36,7 @@ Make NFC Skylanders cards on your Mac (works with both Intel and Apple Silicon M
 ## Extra Information
 - To log into the VM, read the `login_info.txt` file included with the download.
 - The VM has a password detailed in the `login_info.txt` file.
-- If the VM file gets updated, delete the old VM from the sidebar in UTM, download the new one, and follow Step 5 from the initial setup.
+- If the VM file gets updated, delete the old VM from the sidebar in UTM, download the new one, and follow Step 6 from the initial setup.
 - Windows Activation may be included in a future update. If you need Windows activated immediately, please purchase a license.
 - **Disclaimer:** The VM may run slow, so please be patient.
 - MiFare Windows Tool (MWT) and all necessary drivers are installed. MWT may take time to open; avoid multiple clicks to prevent opening multiple windows and slowing the process.
